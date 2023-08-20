@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ABarqawi9
+- 👋 Hi, I’m @Abdelrahman Barqawi
 - 👀 I’m interested in Data Science , Artificial Intelligence , video games , anime etc.
 - 🌱 I’m currently doing a bachelors degree in Data science and Artificial Intelligence.
 - 💞️ I’m looking to build and share more projects using python
