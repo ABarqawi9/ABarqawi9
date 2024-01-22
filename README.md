@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdelrahman Barqawi
-- 👀 I’m interested in Data Science , Artificial Intelligence , video games , anime etc.
+- 👀 I’m interested in Data Science , Artificial Intelligence , anime etc.
 - 🌱 I’m currently doing a bachelors degree in Data science and Artificial Intelligence.
 - 💞️ I’m looking to build and share more projects using python
 - 📫 How to reach me : abdelrahmanbarqawi9@gmail.com | instagram : @batata_aboudiii
